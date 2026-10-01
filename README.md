@@ -1,4 +1,4 @@
-# Streaming Data Analytics — Assignment 2
+# Streaming Data Analytics — Assignment 3
 ### Live E-commerce Inventory Management System → Kafka → MongoDB / MySQL
 
 **Industry (Assignment 1):** E-commerce
